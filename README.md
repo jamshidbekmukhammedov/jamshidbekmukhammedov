@@ -82,3 +82,11 @@ A recommendation platform developed during DIVE 2026 Busan that helps users disc
     width="100%"
   />
 </p>
+
+## Let's Connect
+
+I'm open to interesting opportunities, collaborations, and conversations around **software engineering, AI, and building useful products**.
+
+**LinkedIn** · [Jamshidbek Mukhammedov](https://www.linkedin.com/in/jamshidbek-mukhammedov-098207435)  
+**Email** · [jamshidbekmukhammedov@gmail.com](mailto:jamshidbekmukhammedov@gmail.com)  
+**Website** · [eventra.kr](https://eventra.kr)
