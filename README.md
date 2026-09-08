@@ -106,7 +106,9 @@ Public rental housing recommendation platform developed during **DIVE 2026 Busan
 
 ## Let's Connect
 
-I'm open to interesting opportunities, collaborations, and conversations around **software engineering, AI, and building useful products**.
+I'm always interested in building meaningful products, exploring new ideas, and collaborating on projects across **software engineering and AI**.
+
+If you're working on something interesting — or just want to talk about technology, products, or AI — feel free to reach out.
 
 **LinkedIn** · [Jamshidbek Mukhammedov](https://www.linkedin.com/in/jamshidbek-mukhammedov-098207435)  
 **Email** · [jamshidbekmukhammedov@gmail.com](mailto:jamshidbekmukhammedov@gmail.com)  
