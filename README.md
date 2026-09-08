@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/github-banner.svg" width="100%" alt="Jamshidbek Mukhammedov — Full Stack Developer & AI Engineer" />
+</p>
 
-<!--
-**jamshidbekmukhammedov/jamshidbekmukhammedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Full Stack Developer & AI Engineer** based in South Korea, with **3+ years of experience** building modern web applications and backend systems.
+
+I enjoy turning ideas into complete products — from designing user-facing experiences and backend architecture to integrating AI capabilities and deploying applications to production.
+
+My current focus is on the intersection of **software engineering and AI**, particularly **AI agents, RAG, LLM-powered applications, and computer vision**.
+
+I care about **clean architecture, maintainable code, thoughtful UX, and building products that solve real problems**.
