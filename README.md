@@ -72,3 +72,13 @@ A full-stack application focused on scalable backend architecture, secure media 
 A recommendation platform developed during DIVE 2026 Busan that helps users discover suitable public rental housing based on their preferences.
 
 **Stack:** Next.js · TypeScript · FastAPI · PostgreSQL/PostGIS · Docker
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jamshidbekmukhammedov/jamshidbekmukhammedov/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="Jamshidbek Mukhammedov contribution activity"
+    width="100%"
+  />
+</p>
