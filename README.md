@@ -13,3 +13,17 @@ I enjoy turning ideas into complete products — from designing user-facing expe
 My current focus is on the intersection of **software engineering and AI**, particularly **AI agents, RAG, LLM-powered applications, and computer vision**.
 
 I care about **clean architecture, maintainable code, thoughtful UX, and building products that solve real problems**.
+
+## Tech Stack
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Sass
+
+**Backend**  
+Node.js · NestJS · GraphQL · REST API · Apollo
+
+**Database & Infrastructure**  
+MongoDB · PostgreSQL · Redis · Docker · Nginx
+
+**AI & Machine Learning**  
+Python · PyTorch · RAG · LLMs · Computer Vision · Transfer Learning
