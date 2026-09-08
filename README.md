@@ -72,19 +72,3 @@ A full-stack application focused on scalable backend architecture, secure media 
 A recommendation platform developed during DIVE 2026 Busan that helps users discover suitable public rental housing based on their preferences.
 
 **Stack:** Next.js · TypeScript · FastAPI · PostgreSQL/PostGIS · Docker
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jamshidbekmukhammedov&show_icons=true&hide_border=true&bg_color=00000000&title_color=f5f5f5&text_color=b8b8b8&icon_color=ff9d73"
-    height="165"
-    alt="Jamshidbek's GitHub stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshidbekmukhammedov&layout=compact&hide_border=true&bg_color=00000000&title_color=f5f5f5&text_color=b8b8b8"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
