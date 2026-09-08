@@ -42,7 +42,59 @@ I care about **clean architecture, maintainable code, thoughtful UX, and buildin
 <td>Docker · Nginx</td>
 </tr>
 </table>
-## Contribution Activity
+
+## Featured Projects
+
+### Eventra — Premium Event Platform
+
+> **Flagship Project** · Full Stack · AI Integration · Production Deployment
+
+A production-ready event platform built to handle the complete event lifecycle — from discovery and ticket purchasing to organizer management and QR-based check-in.
+
+**What I built**
+- Multi-role architecture for **Users, Organizers, Admins, and Staff**
+- Event discovery, ticket purchasing, **seat selection & QR check-in**
+- Authentication with **Google & Kakao OAuth**
+- Integrated **AI Assistant** for user support and event discovery
+- Organizer dashboard, event management, notifications, reviews, likes & saves
+- Production deployment using **Docker, Nginx, MongoDB Atlas, and custom domain**
+
+**Tech**  
+`Next.js` · `TypeScript` · `NestJS` · `GraphQL` · `Apollo` · `MongoDB` · `Docker` · `Nginx`
+
+**[View Live Platform →](https://eventra.kr)**
+
+---
+
+### Docora AI — RAG-powered PDF Assistant
+
+Ask questions about PDF documents and receive contextual AI-generated answers with source references.
+
+`Python` · `Gemini` · `RAG` · `Gradio`
+
+---
+
+### FoodLens AI — Computer Vision
+
+Food image classification application built using transfer learning with MobileNetV2.
+
+`Python` · `PyTorch` · `Torchvision` · `MobileNetV2` · `Gradio`
+
+---
+
+### Bingo — Full Stack Application
+
+Full-stack web application focused on scalable backend architecture, secure media handling, and modern frontend development.
+
+`React` · `TypeScript` · `Node.js` · `Docker`
+
+---
+
+### LifeHome — Smart Housing Recommendation
+
+Public rental housing recommendation platform developed during **DIVE 2026 Busan**, combining user preferences with housing and geospatial data.
+
+`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL/PostGIS` · `Docker`
 
 <p align="center">
   <img
